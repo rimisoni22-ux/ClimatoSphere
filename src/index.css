@@ -1,0 +1,24 @@
+:root {
+  --bg: #ffffff;
+  --text: #000000;
+  --card-bg: #f1f1f1;
+}
+
+.dark {
+  --bg: #1a1a1a;
+  --text: #ffffff;
+  --card-bg: #222222;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  transition: 0.3s;
+}
+
+.card {
+  background: var(--card-bg);
+  padding: 20px;
+  border-radius: 16px;
+  margin-top: 20px;
+}
