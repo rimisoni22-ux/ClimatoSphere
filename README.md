@@ -66,7 +66,7 @@ Environment Variables
 Create a .env file in the root directory and add your key:
 
 Code snippet
-VITE_WEATHER_API_KEY=
+VITE_WEATHER_API_KEY=d1c1279e5a15e407cf6b81212fedfa13
 Launch Development Server
 
 Bash
