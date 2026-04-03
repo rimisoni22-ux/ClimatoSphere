@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 🌐 [**Live Demo**](https://your-live-link-here.vercel.app)
+### 🌐 [**Live Demo**](https://69d0096631c2b647a1f65825--courageous-kelpie-10b7cb.netlify.app/)
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -56,7 +56,7 @@ The project follows a modular, component-based architecture designed for scalabi
 ### Setup Steps
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/ClimatoSphere.git](https://github.com/your-username/ClimatoSphere.git)
+   git clone [https://github.com/rimisoni22-ux/ClimatoSphere.git](https://github.com/rimisoni22-ux/ClimatoSphere.git)
    cd weatherapp
    Install Dependencies
 
@@ -66,7 +66,7 @@ Environment Variables
 Create a .env file in the root directory and add your key:
 
 Code snippet
-VITE_WEATHER_API_KEY=your_openweathermap_api_key
+VITE_WEATHER_API_KEY=
 Launch Development Server
 
 Bash
